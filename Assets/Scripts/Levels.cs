@@ -11,15 +11,15 @@ public class Levels : MonoBehaviour
     //leaf variable is general leaf point tracker of entire game
     //publicLeaf is the point tracker player sees
     public int leaf = 0;
-    public int publicLeaf;
+    public int publicLeaf = 0;
     public int green;
     
     // Start is called before the first frame update
     void Start()
     {
         
-        leafPointText.text = "Leaves : " + leaf;
-       DisplayScore();
+        //leafPointText.text = "Leaves : " + leaf;
+       //DisplayScore();
 
     }
 

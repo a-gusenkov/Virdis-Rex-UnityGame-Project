@@ -315,11 +315,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7053601295477311640, guid: b19ad57f5b7954af195b849fa2110357, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -217
+      value: -173
       objectReference: {fileID: 0}
     - target: {fileID: 7053601295477311640, guid: b19ad57f5b7954af195b849fa2110357, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -128
+      value: -100
       objectReference: {fileID: 0}
     - target: {fileID: 7053601295477311641, guid: b19ad57f5b7954af195b849fa2110357, type: 3}
       propertyPath: m_Layer
@@ -1219,12 +1219,28 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 61971066}
     m_Modifications:
+    - target: {fileID: 7053601295477311640, guid: b19ad57f5b7954af195b849fa2110357, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 7053601295477311640, guid: b19ad57f5b7954af195b849fa2110357, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 46
+      objectReference: {fileID: 0}
     - target: {fileID: 7053601295477311643, guid: b19ad57f5b7954af195b849fa2110357, type: 3}
       propertyPath: m_Text
       value: 'You have collected 5 more leaves! Here''s your next choice:                                                                                                                   
         Your military is complaining. They dont want to drink their protein shakes
         from paper straws. They are asking for you ro bring back the plastic ones.
         Not complyng with their demands may anger them. What do you do?'
+      objectReference: {fileID: 0}
+    - target: {fileID: 7053601295477311643, guid: b19ad57f5b7954af195b849fa2110357, type: 3}
+      propertyPath: m_FontData.m_MinSize
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7053601295477311643, guid: b19ad57f5b7954af195b849fa2110357, type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 7053601296370001536, guid: b19ad57f5b7954af195b849fa2110357, type: 3}
       propertyPath: m_Pivot.x
@@ -1604,11 +1620,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7053601295477311640, guid: b19ad57f5b7954af195b849fa2110357, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 188
+      value: 169
       objectReference: {fileID: 0}
     - target: {fileID: 7053601295477311640, guid: b19ad57f5b7954af195b849fa2110357, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -133
+      value: -93
       objectReference: {fileID: 0}
     - target: {fileID: 7053601295477311641, guid: b19ad57f5b7954af195b849fa2110357, type: 3}
       propertyPath: m_Layer

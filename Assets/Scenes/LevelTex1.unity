@@ -476,11 +476,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7053601295477311640, guid: b19ad57f5b7954af195b849fa2110357, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -219
+      value: -165.3
       objectReference: {fileID: 0}
     - target: {fileID: 7053601295477311640, guid: b19ad57f5b7954af195b849fa2110357, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -131
+      value: -101.5
       objectReference: {fileID: 0}
     - target: {fileID: 7053601295477311643, guid: b19ad57f5b7954af195b849fa2110357, type: 3}
       propertyPath: m_Text
@@ -769,11 +769,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7053601295477311640, guid: b19ad57f5b7954af195b849fa2110357, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 243
+      value: 173
       objectReference: {fileID: 0}
     - target: {fileID: 7053601295477311640, guid: b19ad57f5b7954af195b849fa2110357, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -127
+      value: -105
       objectReference: {fileID: 0}
     - target: {fileID: 7053601295477311643, guid: b19ad57f5b7954af195b849fa2110357, type: 3}
       propertyPath: m_Text
@@ -1512,9 +1512,9 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -213.14609, y: -141.50185}
+  m_AnchoredPosition: {x: -193.99994, y: -136.93608}
   m_SizeDelta: {x: 373.7723, y: 157.0036}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_Pivot: {x: 0.5, y: 0.44945282}
 --- !u!114 &2049451468
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1796,19 +1796,19 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7053601295477311640, guid: b19ad57f5b7954af195b849fa2110357, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 602.9661
+      value: 595.7002
       objectReference: {fileID: 0}
     - target: {fileID: 7053601295477311640, guid: b19ad57f5b7954af195b849fa2110357, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 155.1742
+      value: 196.4419
       objectReference: {fileID: 0}
     - target: {fileID: 7053601295477311640, guid: b19ad57f5b7954af195b849fa2110357, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: -3.6309
       objectReference: {fileID: 0}
     - target: {fileID: 7053601295477311640, guid: b19ad57f5b7954af195b849fa2110357, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 11
+      value: -9.6338
       objectReference: {fileID: 0}
     - target: {fileID: 7053601295477311643, guid: b19ad57f5b7954af195b849fa2110357, type: 3}
       propertyPath: m_FontData.m_MinSize

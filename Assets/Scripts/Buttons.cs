@@ -17,6 +17,7 @@ public class Buttons : MonoBehaviour
     public void loadEnd(){
         SceneManager.LoadScene("EndScreen");
     }
+
     public void loadBC1(){
         SceneManager.LoadScene("BadChoice1");
 
@@ -29,5 +30,6 @@ public class Buttons : MonoBehaviour
     }
     public void loadGC2(){
         SceneManager.LoadScene("GoodChoice2");
+
     }
 }
