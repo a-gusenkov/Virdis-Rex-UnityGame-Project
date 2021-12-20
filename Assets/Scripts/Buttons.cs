@@ -28,12 +28,17 @@ public class Buttons : MonoBehaviour
   }
     public void loadEnd()
   {
+    
     SceneManager.LoadScene("EndScreen");
   }
 
   public void loadSettings()
   {
     SceneManager.LoadScene("Settings");
+  }
+   public void loadInstruct()
+  {
+    SceneManager.LoadScene("Instructions");
   }
 
   //levels

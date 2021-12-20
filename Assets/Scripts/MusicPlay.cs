@@ -5,8 +5,8 @@ using UnityEngine.UI;
 
 public class MusicPlay : MonoBehaviour
 {
-    public AudioSource AudioSource;
-    public GameObject ObjectMusic;
+     AudioSource AudioSource;
+     GameObject ObjectMusic;
 
     public Slider volumeSlider;
     private float musicVolume = 1f;

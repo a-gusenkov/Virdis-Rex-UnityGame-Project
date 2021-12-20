@@ -666,19 +666,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Use your arrow keys to move and Spacebar to jump.
-
-
-    Collect all 5
-    leaves in a level to move onto prompt choice.
-
-
-    Answer prompt choice in order
-    to proceed to the next level.
-
-
-    Keep your $ and Approval above 0 (you start
-    with 2).'
+  m_Text: "Use your arrow keys to move and Spacebar to jump.\n\nCollect all 5 leaves
+    in a level to move onto prompt choice.\n\nAnswer prompt choice in order to proceed
+    to the next level.\n\nKeep your $ above 0 (you start with 3) or its \nGAME OVER."
 --- !u!222 &1048771807
 CanvasRenderer:
   m_ObjectHideFlags: 0

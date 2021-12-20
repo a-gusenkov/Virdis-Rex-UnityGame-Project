@@ -1690,6 +1690,30 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2736788755909094211, guid: f64d45c82780349698dc5e2b35fd7d97, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1642644896}
+    - target: {fileID: 2736788755909094211, guid: f64d45c82780349698dc5e2b35fd7d97, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Resume
+      objectReference: {fileID: 0}
+    - target: {fileID: 2736788755909094211, guid: f64d45c82780349698dc5e2b35fd7d97, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: PauseMe, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 2736788756041830219, guid: f64d45c82780349698dc5e2b35fd7d97, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1642644896}
+    - target: {fileID: 2736788756041830219, guid: f64d45c82780349698dc5e2b35fd7d97, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: loadHome
+      objectReference: {fileID: 0}
+    - target: {fileID: 2736788756041830219, guid: f64d45c82780349698dc5e2b35fd7d97, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: PauseMe, Assembly-CSharp
+      objectReference: {fileID: 0}
     - target: {fileID: 2736788757389376153, guid: f64d45c82780349698dc5e2b35fd7d97, type: 3}
       propertyPath: m_Name
       value: PauseCanvas
@@ -1805,6 +1829,11 @@ PrefabInstance:
     m_RemovedComponents:
     - {fileID: 2736788757389376152, guid: f64d45c82780349698dc5e2b35fd7d97, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: f64d45c82780349698dc5e2b35fd7d97, type: 3}
+--- !u!1 &1206646938 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2736788756523027555, guid: f64d45c82780349698dc5e2b35fd7d97, type: 3}
+  m_PrefabInstance: {fileID: 1206646937}
+  m_PrefabAsset: {fileID: 0}
 --- !u!114 &1252551282 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 2071168951841600813, guid: 6160df6b2e306461f91d2a17f1f01ab2, type: 3}
@@ -2549,6 +2578,18 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 480899577}
+    - target: {fileID: 6327657087007449054, guid: a04554920dbd44b66a59a5e3f97ec203, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1642644896}
+    - target: {fileID: 6327657087007449054, guid: a04554920dbd44b66a59a5e3f97ec203, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Pause
+      objectReference: {fileID: 0}
+    - target: {fileID: 6327657087007449054, guid: a04554920dbd44b66a59a5e3f97ec203, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: PauseMe, Assembly-CSharp
+      objectReference: {fileID: 0}
     - target: {fileID: 6327657087193012853, guid: a04554920dbd44b66a59a5e3f97ec203, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
@@ -2560,6 +2601,25 @@ PrefabInstance:
     m_RemovedComponents:
     - {fileID: 6327657087193012852, guid: a04554920dbd44b66a59a5e3f97ec203, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: a04554920dbd44b66a59a5e3f97ec203, type: 3}
+--- !u!1 &1642644895 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6327657087007449052, guid: a04554920dbd44b66a59a5e3f97ec203, type: 3}
+  m_PrefabInstance: {fileID: 1642644894}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1642644896
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1642644895}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 024406f93879d416b92ae9ff22926435, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sk: {fileID: 1649145208}
+  PauseMenuUI: {fileID: 1206646938}
 --- !u!1001 &1649145204
 PrefabInstance:
   m_ObjectHideFlags: 0
