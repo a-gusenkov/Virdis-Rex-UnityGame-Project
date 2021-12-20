@@ -33,54 +33,9 @@ EditorBuildSettings:
     path: Assets/Scenes/GoodChoice2.unity
     guid: 06f9d4f30a1fa40b5811f1f77186f25c
   - enabled: 1
-    path: Assets/Scenes/Level3.unity
-    guid: debc2033b2e6341d8ab26c34cf6e6fb0
-  - enabled: 1
-    path: Assets/Scenes/LevelText3.unity
-    guid: 159e4b6cce2c74e24a6bf72eb4c58dbf
-  - enabled: 1
-    path: Assets/Scenes/BC3.unity
-    guid: 9a9ae2a11632440d3ab2ce8f5495d96c
-  - enabled: 1
-    path: Assets/Scenes/GC3.unity
-    guid: 052154e9865eb469ab9d2133b01280d5
-  - enabled: 1
-    path: Assets/Scenes/Level4.unity
-    guid: 568533d535a554308ac5e06d90209003
-  - enabled: 1
-    path: Assets/Scenes/LevelText4.unity
-    guid: f8daf840439584706ae93f3700078f4a
-  - enabled: 1
-    path: Assets/Scenes/BC4.unity
-    guid: 2a1af9d3c600c4fb3ac681bb14d91f71
-  - enabled: 1
-    path: Assets/Scenes/GC4.unity
-    guid: ccc73ee36e2f84a3d8300b1ee1f80877
-  - enabled: 1
-    path: Assets/Scenes/Level5.unity
-    guid: 159317fbf9ac94304977b217422e3930
-  - enabled: 1
-    path: Assets/Scenes/LevelText5.unity
-    guid: 7c92c71a28ce84e359231f3b3f3f1f94
-  - enabled: 1
-    path: Assets/Scenes/BC5.unity
-    guid: 25d8cdbd7510d4aa0a4e1b8fbb21d487
-  - enabled: 1
-    path: Assets/Scenes/GC5.unity
-    guid: 5b9020a5bfd2d4d4ab6d3faa0c7e4739
+    path: Assets/Scenes/EndScreen.unity
+    guid: c69491fef095f419fb78dea9a6cb8667
   - enabled: 1
     path: Assets/Scenes/Settings.unity
     guid: 3ae2080e20a594254a57b5d54803deb4
-  - enabled: 1
-    path: Assets/Scenes/Instructions.unity
-    guid: 512dfa52c041a4a5db9354079f3af8f3
-  - enabled: 1
-    path: Assets/Scenes/EndScreen.unity
-    guid: c1b3bde13ba2d42f0994a2460398c74a
-  - enabled: 1
-    path: Assets/Scenes/EndScreenPoor.unity
-    guid: c69491fef095f419fb78dea9a6cb8667
-  - enabled: 1
-    path: Assets/Scenes/HishScores.unity
-    guid: 45cc473a098d54534b0ee5b77de02aa3
   m_configObjects: {}
